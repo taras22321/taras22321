@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html >
+<head><meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>HTML & CSS практика от AVIS TV</title>
+
+	<!-- Bootstrap reboot (для сброса стилей) -->
+	<link rel="stylesheet" href="libs/bootstrap-reboot.min.css">
+
+	<!-- Bootstrap сетка -->
+	<link rel="stylesheet" href="libs/bootstrap-grid.min.css">
+
+	<!-- Шрифты с Google Fonts -->
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <a href="#" class="navbar-brand">Mylo </a>
+            <div class="navdar-warp">
+                <ul class="navbar-menu">
+                    <li><a href="#">Про Нас</a></li>
+                    <li><a href="#">Портфоліо</a></li>
+                    <li><a href="#">Ціни</a></li>
+                    <li><a href="#">Контакти</a></li>
+                </ul> 
+    
+                <a href="#" class="callback">Зворотній звінок</a>
+            </div>
+
+        </div>
+    </nav>
+ 
+</body>
+</html>
